@@ -1,0 +1,5 @@
+# requirements.txt
+httpx
+beautifulsoup4>=4.12.3 # For parsing HTML
+lxml>=5.1.0 # Fast HTML/XML parser used by BeautifulSoup
+robotexclusionrulesparser # For parsing robots.txt
